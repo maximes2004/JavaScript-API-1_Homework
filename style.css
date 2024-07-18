@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th,
+  td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+  }
+  th {
+    background-color: #f2f2f2;
+  }
+  button:disabled {
+    background-color: #d3d3d3;
+  }
